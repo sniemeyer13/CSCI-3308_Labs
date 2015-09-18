@@ -1,2 +1,2 @@
-#CSCI-3308_Labs
-This might cause a merge conflict
+# CSCI-3308_Labs
+Partner: Joseph Vostrejs
